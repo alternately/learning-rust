@@ -77,7 +77,7 @@ fn main() {
     //                                                  V
 
 
-    
+    // I'm on chapter 11, and no more on structs really
     
     
     
